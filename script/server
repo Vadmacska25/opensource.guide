@@ -1,3 +1,4 @@
+stop 
 #!/bin/sh
 
 set -e
